@@ -1,0 +1,19 @@
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/first_books_app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/Users/hiraikeryuta/.rbenv/versions/2.6.4/bin/ruby -I /Users/hiraikeryuta/.rbenv/versions/2.6.4/lib/ruby/2.6.0 -r ./siteconf20191101-16931-1tea68m.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/first_books_app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/first_books_app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/first_books_app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20191101-16931-kriw0p/byebug

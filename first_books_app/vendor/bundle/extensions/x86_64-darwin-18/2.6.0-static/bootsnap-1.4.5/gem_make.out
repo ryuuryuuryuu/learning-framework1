@@ -1,0 +1,15 @@
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/first_books_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/hiraikeryuta/.rbenv/versions/2.6.4/bin/ruby -I /Users/hiraikeryuta/.rbenv/versions/2.6.4/lib/ruby/2.6.0 -r ./siteconf20191101-16931-1bvlzz8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/first_books_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/first_books_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/first_books_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20191101-16931-11yfvqr/bootsnap
