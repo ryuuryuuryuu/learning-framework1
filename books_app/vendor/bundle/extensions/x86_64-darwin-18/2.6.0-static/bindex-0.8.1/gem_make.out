@@ -1,0 +1,15 @@
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/books_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/Users/hiraikeryuta/.rbenv/versions/2.6.4/bin/ruby -I /Users/hiraikeryuta/.rbenv/versions/2.6.4/lib/ruby/2.6.0 -r ./siteconf20191108-25624-1q417g2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/books_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/books_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/books_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20191108-25624-87ihq/skiptrace/internal

@@ -1,0 +1,15 @@
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/books_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/hiraikeryuta/.rbenv/versions/2.6.4/bin/ruby -I /Users/hiraikeryuta/.rbenv/versions/2.6.4/lib/ruby/2.6.0 -r ./siteconf20191108-25624-1l0o79c.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/books_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/books_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/hiraikeryuta/kid/fujiwara/learning-framework1/books_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20191108-25624-681nec
